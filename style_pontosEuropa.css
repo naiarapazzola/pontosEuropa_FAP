@@ -1,0 +1,14 @@
+body {
+  background-color: #c4b6a7;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.itensLista {
+  font-weight: 700;
+  padding-top: 3%;
+}
+
+footer{
+  text-align: center;
+  padding: 3%;
+}
